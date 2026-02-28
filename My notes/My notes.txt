@@ -1,0 +1,2 @@
+npm install: installs dependencies for a Node.js project
+npm run dev: installs dependencies for a Node.js project
