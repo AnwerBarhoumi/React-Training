@@ -1,0 +1,18 @@
+npm install: download and install any third party packages needed by the project for example the react
+libraries and the build process tools that watch and transform the React codethat works in the browser
+
+npm run dev == npm start: start the development server
+
+rendered==displayed on screen
+
+jsx extension: a JavaScript file that uses a non-standard js syntax, allows developers to describe and 
+create HTML elements by writing HTML markup code inside of js files
+
+jsx: used to describe and create HTML elements in js in a declarative way, but Browsers do not support JSX
+
+react: you write declarative code, you define the target HTML structure and ui not the steps to get there
+
+react projects come with a build process that transfors JSX code (behind the scenes) to code that does work
+in browsers
+
+component: a js function
