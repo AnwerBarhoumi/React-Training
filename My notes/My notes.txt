@@ -12,7 +12,15 @@ jsx: used to describe and create HTML elements in js in a declarative way, but B
 
 react: you write declarative code, you define the target HTML structure and ui not the steps to get there
 
+browsers do not support JSX
 react projects come with a build process that transfors JSX code (behind the scenes) to code that does work
 in browsers
 
 component: a js function
+
+index.jsx: acts as the main entry point of our React app, since it is the first file to be loaded by the
+HTML file( where the react app boots up )
+
+explaining component tree: vid 40
+
+image best practice ( deployment) : vid 42
