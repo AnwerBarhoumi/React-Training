@@ -24,3 +24,5 @@ HTML file( where the react app boots up )
 explaining component tree: vid 40
 
 image best practice ( deployment) : vid 42
+
+by default react components execute only once: vid 52
