@@ -26,3 +26,5 @@ explaining component tree: vid 40
 image best practice ( deployment) : vid 42
 
 by default react components execute only once: vid 52
+
+css modules allows to write vanilla css with file specific scoping : vid 113
